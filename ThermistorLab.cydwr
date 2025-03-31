@@ -251,9 +251,15 @@
   <Data key="DataVersionKey" value="2" />
   <Group key="DWRInstGuidMapping">
     <Group key="Pin">
-      <Data key="1183a833-59f2-48f2-ace1-ce755600a4bc" value="P0_0" />
-      <Data key="6073d512-30a4-45e4-b963-af03cba031fa" value="P0_2" />
-      <Data key="77715107-f8d5-47e5-a629-0fb83101ac6b" value="P0_1" />
+      <Data key="0c314a3b-4fed-4d40-a974-bcf3e605dcdc" value="P3_4" />
+      <Data key="2c6e7238-3b39-473b-baa8-089dd48b5cdf/20681f4c-d171-47ae-a1cb-d832cd711191" value="ADC_DelSig_1_Bypass_P03" />
+      <Data key="3eaef5a4-3213-43d8-b357-c6c6b923246b" value="P0_0" />
+      <Data key="551fee8d-62f8-4867-af68-60ed7c94da75/ed092b9b-d398-4703-be89-cebf998501f6" value="LCD_LCDPort" />
+      <Data key="1183a833-59f2-48f2-ace1-ce755600a4bc" value="P3_0" />
+      <Data key="6073d512-30a4-45e4-b963-af03cba031fa" value="P3_2" />
+      <Data key="77715107-f8d5-47e5-a629-0fb83101ac6b" value="P3_1" />
+      <Data key="dcc8d98c-d207-4c96-90a5-a5d7e451cf29" value="P3_3" />
+      <Data key="ec6b9b10-e0a9-4862-8433-dd59c6784526" value="P0_1" />
     </Group>
   </Group>
   <Group key="EEPROM">
@@ -3340,17 +3346,37 @@
     </Group>
   </Group>
   <Group key="Pin2">
-    <Group key="1183a833-59f2-48f2-ace1-ce755600a4bc">
+    <Group key="0c314a3b-4fed-4d40-a974-bcf3e605dcdc">
+      <Group key="0">
+        <Data key="Port Format" value="3,4" />
+      </Group>
+    </Group>
+    <Group key="3eaef5a4-3213-43d8-b357-c6c6b923246b">
       <Group key="0">
         <Data key="Port Format" value="0,0" />
       </Group>
     </Group>
+    <Group key="1183a833-59f2-48f2-ace1-ce755600a4bc">
+      <Group key="0">
+        <Data key="Port Format" value="3,0" />
+      </Group>
+    </Group>
     <Group key="6073d512-30a4-45e4-b963-af03cba031fa">
       <Group key="0">
-        <Data key="Port Format" value="0,2" />
+        <Data key="Port Format" value="3,2" />
       </Group>
     </Group>
     <Group key="77715107-f8d5-47e5-a629-0fb83101ac6b">
+      <Group key="0">
+        <Data key="Port Format" value="3,1" />
+      </Group>
+    </Group>
+    <Group key="dcc8d98c-d207-4c96-90a5-a5d7e451cf29">
+      <Group key="0">
+        <Data key="Port Format" value="3,3" />
+      </Group>
+    </Group>
+    <Group key="ec6b9b10-e0a9-4862-8433-dd59c6784526">
       <Group key="0">
         <Data key="Port Format" value="0,1" />
       </Group>
